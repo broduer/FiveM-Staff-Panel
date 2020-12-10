@@ -10,7 +10,6 @@ import passport from 'passport';
 import Strategy from 'passport-discord';
 import session from 'express-session'
 import Logger from './services/Logger';
-import { GuildMember } from 'discord.js';
 import { MessageEmbed } from 'discord.js';
 
 class App {

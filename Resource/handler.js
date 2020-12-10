@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send("joe is a fuck tard in a half")
+    res.send("ok")
 })
 
 app.listen(5001, () => console.log("express server started on port 5000"));
