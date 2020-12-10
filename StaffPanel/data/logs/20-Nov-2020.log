@@ -1,0 +1,417 @@
+Log - Nov-20-2020 | 15:11:29:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:16:34:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:16:36:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 15:16:36:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:16:36:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:16:36:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:16:36:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:16:37:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:16:37:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:16:37:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:32:43:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:32:44:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 15:32:44:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:32:44:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:32:44:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:32:44:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:32:45:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:32:45:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:32:45:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:33:6:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:33:8:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:33:17:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:33:17:Database fetch for players took 7ms
+Log - Nov-20-2020 | 15:33:17:Database insert for players took 13ms
+Log - Nov-20-2020 | 15:33:51:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:33:51:Database fetch for players took 1ms
+Log - Nov-20-2020 | 15:33:51:Database insert for players took 3ms
+Log - Nov-20-2020 | 15:34:4:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:34:6:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:34:6:Database fetch for players took 3ms
+Log - Nov-20-2020 | 15:34:6:Database insert for players took 11ms
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:34:6:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:34:36:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:34:36:Database fetch for players took 2ms
+Log - Nov-20-2020 | 15:34:36:Database insert for players took 2ms
+Log - Nov-20-2020 | 15:35:2:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:35:3:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:35:3:Database fetch for players took 3ms
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot is ready to serve 2717 users in 3 guilds!
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:35:4:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:35:22:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:35:23:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:35:23:Database fetch for players took 3ms
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot is ready to serve 2717 users in 3 guilds!
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:35:24:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:35:42:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:35:44:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:35:44:Database fetch for players took 3ms
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot is ready to serve 2717 users in 3 guilds!
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:35:44:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:36:23:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:36:23:Database fetch for players took 2ms
+Log - Nov-20-2020 | 15:36:30:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:36:30:Database fetch for players took 2ms
+Log - Nov-20-2020 | 15:36:49:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:36:49:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:36:51:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:37:36:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:37:38:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 15:37:38:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:37:38:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:37:38:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:37:39:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:37:39:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:37:39:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:37:39:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:37:39:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:37:41:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:37:58:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:38:0:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:38:0:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:38:1:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:38:10:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:38:12:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:38:12:BCCRP Bot is ready to serve 2719 users in 3 guilds!
+Log - Nov-20-2020 | 15:38:12:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:38:12:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:38:12:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:38:12:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:38:12:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:38:13:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:38:13:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:38:35:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:39:40:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:39:41:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:39:42:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:40:19:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:40:37:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:40:52:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:40:53:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:40:54:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:41:12:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:41:12:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:41:14:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:42:1:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:42:2:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:42:3:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:42:54:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:42:55:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:42:55:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 15:42:55:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:42:56:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:42:56:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:42:56:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:42:56:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:42:56:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:42:56:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:43:20:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:43:22:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:43:22:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:48:47:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot is ready to serve 2719 users in 3 guilds!
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:48:49:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:48:51:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:49:28:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:52:37:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:52:37:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:52:39:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:53:4:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:53:5:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:53:5:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 15:53:5:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:53:5:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:53:5:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:53:5:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:53:5:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:53:6:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:53:6:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:57:50:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:59:4:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:59:15:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:59:16:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 15:59:16:BCCRP Bot is ready to serve 2722 users in 3 guilds!
+Log - Nov-20-2020 | 15:59:16:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:59:17:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:59:17:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:59:17:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:59:17:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:59:17:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:59:17:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:59:37:Connected to the MongoDB database!
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot is ready to serve 2722 users in 3 guilds!
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 15:59:39:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 15:59:39:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 16:0:40:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 16:1:5:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 16:1:58:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-20-2020 | 16:3:55:Connected to the MongoDB database!
+Log - Nov-20-2020 | 16:3:56:BCCRP Bot is ready to serve 2723 users in 3 guilds!
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 16:3:57:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:15:55:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot is ready to serve 2719 users in 3 guilds!
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:15:57:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:16:10:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot is ready to serve 2719 users in 3 guilds!
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:16:11:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:16:12:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:16:44:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:16:46:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:17:3:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:17:5:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 19:17:5:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:17:5:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:17:5:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:17:5:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:17:5:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:17:6:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:17:6:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:18:9:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:18:10:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 19:18:10:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:18:11:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:18:11:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:18:11:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:18:11:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:18:11:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:18:11:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:18:54:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:18:56:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:19:5:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot is ready to serve 2720 users in 3 guilds!
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:19:6:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:19:7:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:21:4:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:21:6:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:21:17:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:21:19:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:21:34:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:21:36:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:23:8:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot is ready to serve 2723 users in 3 guilds!
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:23:10:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:23:22:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:23:23:BCCRP Bot is ready to serve 2724 users in 3 guilds!
+Log - Nov-20-2020 | 19:23:23:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:23:23:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:23:23:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:23:23:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:23:24:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:23:24:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:23:24:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:42:2:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot is ready to serve 2721 users in 3 guilds!
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:42:4:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:44:34:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:44:36:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:44:52:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:44:54:BCCRP Bot is ready to serve 2717 users in 3 guilds!
+Log - Nov-20-2020 | 19:44:54:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:44:54:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:44:54:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:44:54:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:44:54:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:44:55:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:44:55:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:46:31:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:46:32:BCCRP Bot is ready to serve 2719 users in 3 guilds!
+Log - Nov-20-2020 | 19:46:32:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:46:33:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:46:33:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:46:33:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:46:33:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:46:33:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:46:33:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:47:14:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot is ready to serve 2718 users in 3 guilds!
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:47:16:BCCRP Bot just loaded ready.ts
+Log - Nov-20-2020 | 19:47:34:Connected to the MongoDB database!
+Log - Nov-20-2020 | 19:47:35:BCCRP Bot is ready to serve 2719 users in 3 guilds!
+Log - Nov-20-2020 | 19:47:35:BCCRP Bot just loaded ping.ts
+Log - Nov-20-2020 | 19:47:35:BCCRP Bot just loaded test.ts
+Log - Nov-20-2020 | 19:47:36:BCCRP Bot just loaded warn.ts
+Log - Nov-20-2020 | 19:47:36:BCCRP Bot just loaded message.ts
+Log - Nov-20-2020 | 19:47:36:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-20-2020 | 19:47:36:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-20-2020 | 19:47:36:BCCRP Bot just loaded ready.ts

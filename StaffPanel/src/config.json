@@ -1,0 +1,35 @@
+{
+    "discordToken":"NzE3MjE3NjA4NTg3MjgwNDQ1.XtXG8w.G3G0IQqklGwbQTQMFCVLMhZuE4w",
+    "authentication": "testtoken",
+    "port":5000,
+    "prefix":"t!",
+    "staffServer": "771191803684716576",
+    "passport": {
+        "secret": "test",
+        "clientID": "717217608587280445",
+        "clientSecret": "HuIeIvzoTIICc7wS-3e6hOmyN-hL89PQ",
+        "callbackURL": "http://localhost:5000/dashboard/callback"
+    },
+    "FiveMLogs": {
+
+    },
+    "logChannels": {
+        "warnings": "771191803684716576",
+        "mutes": "771191803684716576",
+        "kicks": "771191803684716576",
+        "bans": "771191803684716576",
+        "misc": "",
+        "audit":""
+    },
+    "mongodb": "mongodb://localhost:27017/FiveM-AdminPanel-v2",
+    "staffRoles": [
+        { "roleID": "702639368661237860", "name": "Owner", "perms": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] },
+        { "roleID": "702604842455007316", "name": "Head Admin", "perms": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] },
+        { "roleID": "726276184194809887", "name": "Head Developer", "perms": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17] },
+        { "roleID": "706197316453007390", "name": "Management Team", "perms": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] },
+        { "roleID": "702603836686205038", "name": "Sr. Admin", "perms": [] },
+        { "roleID": "702603763508183100", "name": "Admin", "perms": [] },
+        { "roleID": "702603611082981506", "name": "Moderator", "perms": [] },
+        { "roleID": "702603390856855692", "name": "Jr. Moderator", "perms": [] }
+    ]
+}

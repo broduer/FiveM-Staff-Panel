@@ -1,0 +1,9 @@
+Log - Dec-4-2020 | 20:4:10:Connected to the MongoDB database!
+Log - Dec-4-2020 | 20:4:12:BCCRP Bot is ready to serve 4251 users in 3 guilds!
+Log - Dec-4-2020 | 20:4:12:BCCRP Bot just loaded ping.ts
+Log - Dec-4-2020 | 20:4:12:BCCRP Bot just loaded test.ts
+Log - Dec-4-2020 | 20:4:12:BCCRP Bot just loaded warn.ts
+Log - Dec-4-2020 | 20:4:12:BCCRP Bot just loaded message.ts
+Log - Dec-4-2020 | 20:4:12:BCCRP Bot just loaded messageDelete.ts
+Log - Dec-4-2020 | 20:4:13:BCCRP Bot just loaded messageUpdate.ts
+Log - Dec-4-2020 | 20:4:13:BCCRP Bot just loaded ready.ts

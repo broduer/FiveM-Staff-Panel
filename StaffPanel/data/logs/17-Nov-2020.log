@@ -1,0 +1,116 @@
+Log - Nov-17-2020 | 23:8:9:Database fetch for players took 14ms
+Log - Nov-17-2020 | 23:8:9:Database insert for players took 26ms
+Log - Nov-17-2020 | 23:9:44:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:9:44:Database insert for players took 10ms
+Log - Nov-17-2020 | 23:9:55:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:9:55:Database insert for players took 11ms
+Log - Nov-17-2020 | 23:10:4:Database fetch for players took 16ms
+Log - Nov-17-2020 | 23:10:4:Database insert for players took 12ms
+Log - Nov-17-2020 | 23:10:21:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:10:21:Database insert for players took 11ms
+Log - Nov-17-2020 | 23:11:16:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:11:16:Database insert for players took 12ms
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot is ready to serve 2483 users in 3 guilds!
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:11:16:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:11:17:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot is ready to serve 2481 users in 3 guilds!
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:12:19:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:12:22:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:12:22:Database insert for players took 10ms
+Log - Nov-17-2020 | 23:12:34:BCCRP Bot is ready to serve 2481 users in 3 guilds!
+Log - Nov-17-2020 | 23:12:34:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:12:34:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:12:35:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:12:35:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:12:35:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:12:35:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:12:35:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:12:35:Database fetch for players took 4ms
+Log - Nov-17-2020 | 23:12:35:Database insert for players took 11ms
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot is ready to serve 2481 users in 3 guilds!
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:13:53:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:13:54:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:13:56:Database fetch for players took 4ms
+Log - Nov-17-2020 | 23:13:56:Database insert for players took 12ms
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot is ready to serve 2481 users in 3 guilds!
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:14:14:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:14:15:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:14:15:Database insert for players took 11ms
+Log - Nov-17-2020 | 23:15:35:Connected to the MongoDB database!
+Log - Nov-17-2020 | 23:15:57:Connected to the MongoDB database!
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot is ready to serve 2480 users in 3 guilds!
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:15:58:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:16:2:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:16:2:Database insert for players took 10ms
+Log - Nov-17-2020 | 23:17:11:Connected to the MongoDB database!
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot is ready to serve 2478 users in 3 guilds!
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:17:12:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:17:12:Database fetch for players took 3ms
+Log - Nov-17-2020 | 23:17:12:Database insert for players took 10ms
+Log - Nov-17-2020 | 23:17:25:Connected to the MongoDB database!
+Log - Nov-17-2020 | 23:17:26:BCCRP Bot is ready to serve 2477 users in 3 guilds!
+Log - Nov-17-2020 | 23:17:26:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:17:26:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:17:26:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:17:26:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:17:26:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:17:27:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:17:27:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:17:27:Socket.io connection received from `::ffff:127.0.0.1`
+Log - Nov-17-2020 | 23:17:27:Database fetch for players took 4ms
+Log - Nov-17-2020 | 23:17:27:Database insert for players took 13ms
+Log - Nov-17-2020 | 23:17:36:Connected to the MongoDB database!
+Log - Nov-17-2020 | 23:17:37:BCCRP Bot is ready to serve 2477 users in 3 guilds!
+Log - Nov-17-2020 | 23:17:37:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:17:37:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:17:37:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:17:37:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:17:37:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:17:38:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:17:38:BCCRP Bot just loaded ready.ts
+Log - Nov-17-2020 | 23:17:39:Socket.io connection received from ::ffff:127.0.0.1
+Log - Nov-17-2020 | 23:17:39:Database fetch for players took 4ms
+Log - Nov-17-2020 | 23:17:39:Database insert for players took 11ms
+Log - Nov-17-2020 | 23:46:9:Connected to the MongoDB database!
+Log - Nov-17-2020 | 23:46:10:BCCRP Bot is ready to serve 2462 users in 3 guilds!
+Log - Nov-17-2020 | 23:46:10:BCCRP Bot just loaded ping.ts
+Log - Nov-17-2020 | 23:46:10:BCCRP Bot just loaded test.ts
+Log - Nov-17-2020 | 23:46:11:BCCRP Bot just loaded warn.ts
+Log - Nov-17-2020 | 23:46:11:BCCRP Bot just loaded message.ts
+Log - Nov-17-2020 | 23:46:11:BCCRP Bot just loaded messageDelete.ts
+Log - Nov-17-2020 | 23:46:11:BCCRP Bot just loaded messageUpdate.ts
+Log - Nov-17-2020 | 23:46:11:BCCRP Bot just loaded ready.ts
